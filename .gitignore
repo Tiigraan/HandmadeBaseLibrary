@@ -1,0 +1,10 @@
+.idea
+HandmadeBaseLibrary.sln.DotSettings.user
+
+# HandmadeBaseLibrary/
+HandmadeBaseLibrary/bin
+HandmadeBaseLibrary/obj
+
+# HandmadeBaseLibraryTests/
+HandmadeBaseLibraryTests/bin
+HandmadeBaseLibraryTests/obj
